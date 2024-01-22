@@ -1,4 +1,5 @@
-## AndrewBeattyCourseware is a Github account where I put sample code for the modules I teach at the ATU
+## AndrewBeattyCourseware
+This GitHub account where I put sample code for the modules I teach at the ATU
 
 #### 🌱 Currently Taught Modules
 
