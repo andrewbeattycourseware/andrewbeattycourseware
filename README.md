@@ -1,11 +1,11 @@
-### AndrewBeattyCourseware is a Github account where I put sample code for the modules taught by Andrew Beatty at the ATU
+## AndrewBeattyCourseware is a Github account where I put sample code for the modules I teach at the ATU
 
-#### Currently taught Modules
+#### 🌱 Currently Taught Modules
 
 - Programming and Scripting [https://github.com/andrewbeattycourseware/pands-course-material](https://github.com/andrewbeattycourseware/pands-course-material)
 - WebSerices and Applications [https://github.com/andrewbeattycourseware/wsaa-course-material](https://github.com/andrewbeattycourseware/wsaa-course-material)
 
-#### Previous Years Repositories
+#### 🔭 Previous Years Repositories
 These repositories contain all the sample code from finished modules
 
 - [ Programming and Scripting 2023](https://github.com/andrewbeattycourseware/pands-course-material2023)
