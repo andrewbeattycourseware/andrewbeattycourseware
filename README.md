@@ -3,8 +3,8 @@ This GitHub account where I put sample code for the modules I teach at the ATU
 
 #### 🌱 Currently Taught Modules
 
-- Programming and Scripting [https://github.com/andrewbeattycourseware/pands-course-material](https://github.com/andrewbeattycourseware/pands-courseware)
-- WebSerices and Applications [https://github.com/andrewbeattycourseware/wsaa-course-material](https://github.com/andrewbeattycourseware/wsaa-courseware)
+- Programming and Scripting [https://github.com/andrewbeattycourseware/pands-courseware](https://github.com/andrewbeattycourseware/pands-courseware)
+- WebSerices and Applications [https://github.com/andrewbeattycourseware/wsaa-courseware](https://github.com/andrewbeattycourseware/wsaa-courseware)
 
 #### 🔭 Previous Years Repositories
 These repositories contain all the sample code from finished modules
