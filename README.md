@@ -9,9 +9,8 @@ This GitHub account where I put sample code for the modules I teach at the ATU
 #### 🔭 Previous Years Repositories
 These repositories contain all the sample code from finished modules
 
-- [ Programming and Scripting 2023](https://github.com/andrewbeattycourseware/pands-course-material2023)
-- [Data Representation 2023](https://github.com/andrewbeattycourseware/datarepresentation)
-
+- [ Programming and Scripting 2024](https://github.com/andrewbeattycourseware/pands-course-material2024)
+- [ WebSerices and Applications 2024 ](https://github.com/andrewbeattycourseware/wsaa-course-material2024)
 
 
 <!--
